@@ -1,18 +1,75 @@
-<!DOCTYPE html>
-<html lang="es">
-<head>
-  <meta charset="UTF-8" />
-  <meta name="viewport" content="width=device-width, initial-scale=1.0" />
-  <title>Presentación GitHub - Ismael Jimenez</title>
-  <link rel="preconnect" href="https://fonts.googleapis.com">
-  <link rel="preconnect" href="https://fonts.gstatic.com" crossorigin>
-  <link href="https://fonts.googleapis.com/css2?family=Poppins:wght@300;400;600;700&display=swap" rel="stylesheet">
-  <script src="https://cdnjs.cloudflare.com/ajax/libs/particles.js/2.0.0/particles.min.js"></script>
-  <style>
-    * { margin:0; padding:0; box-sizing:border-box; font-family:'Poppins',sans-serif; }
-    body {
-      background: linear-gradient(135deg,#0f172a,#1e293b,#020617);
-      color:#fff;
+   <h1 align="center">Hi 👋, I'm Ismael Jimenez</h1>
+<h3 align="center">💻 Software Developer | Backend Developer | Web Applications</h3>
+
+<p align="center">
+  <img src="https://readme-typing-svg.herokuapp.com?font=Poppins&size=24&pause=1000&color=38BDF8&center=true&vCenter=true&width=600&lines=Backend+Developer;Python+%7C+PHP+%7C+JavaScript;React+%7C+PostgreSQL+%7C+APIs;Building+scalable+web+applications" />
+</p>
+
+---
+
+## 🚀 About Me
+
+- 💻 Junior Software Developer focused on **Backend Development**
+- ⚡ Experience building **REST APIs and Web Applications**
+- 🔐 Knowledge in **authentication, payment gateways, databases**
+- 🌱 Currently improving my skills in **React, Python & PostgreSQL**
+- 🎯 Goal: Build scalable and professional software solutions
+
+---
+
+## 🛠 Tech Stack
+
+<p align="center">
+  <img src="https://skillicons.dev/icons?i=python,php,javascript,react,postgres,mysql,git,github,html,css" />
+</p>
+
+---
+
+## 📊 GitHub Stats
+
+<p align="center">
+  <img src="https://github-readme-stats.vercel.app/api?username=Isaac384&show_icons=true&theme=tokyonight" />
+</p>
+
+<p align="center">
+  <img src="https://github-readme-streak-stats.herokuapp.com/?user=Isaac384&theme=tokyonight" />
+</p>
+
+<p align="center">
+  <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=Isaac384&layout=compact&theme=tokyonight" />
+</p>
+
+---
+
+## 🏆 GitHub Trophies
+
+<p align="center">
+  <img src="https://github-profile-trophy.vercel.app/?username=Isaac384&theme=tokyonight&row=1&column=6" />
+</p>
+
+---
+
+## 🌐 Connect With Me
+
+<p align="center">
+  <a href="TU-LINKEDIN">LinkedIn</a> •
+  <a href="TU-PORTAFOLIO">Portfolio</a> •
+  <a href="mailto:TU-CORREO">Email</a>
+</p>
+
+---
+
+## 🐍 Contribution Snake
+
+<p align="center">
+  <img src="https://raw.githubusercontent.com/Isaac384/Isaac384/output/snake.svg" />
+</p>
+
+---
+
+<p align="center">
+  <img src="https://komarev.com/ghpvc/?username=Isaac384&label=Profile%20Views&color=0e75b6&style=flat" />
+</p>   color:#fff;
       overflow-x:hidden;
     }
     #particles-js {
