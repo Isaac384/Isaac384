@@ -27,7 +27,7 @@
 ## 🛠 Tech Stack
 
 <p align="center">
-  <img src="https://skillicons.dev/icons?i=python,php,javascript,react,postgres,mysql,git,github,html,css,bootstrap" />
+  <img src="https://skillicons.dev/icons?i=python,php,cplusplus,javascript,react,flutter,java,mongodb,postgres,mysql,git,github,laravel,dart,html,css,bootstrap" />
 </p>
 
 ---
@@ -75,7 +75,7 @@
     <img src="https://img.shields.io/badge/Portfolio-111827?style=for-the-badge&logo=firefox&logoColor=white"/>
   </a>
 
-  <a href="mailto:TU-CORREO">
+  <a href="isaac.ismael43@outlook.com">
     <img src="https://img.shields.io/badge/Email-EA4335?style=for-the-badge&logo=gmail&logoColor=white"/>
   </a>
 </p>
