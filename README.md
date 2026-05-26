@@ -1,62 +1,53 @@
-<h1 align="center">
-  Hi 👋, I'm Ismael Jimenez
-</h1>
+<h1 align="center">Hi 👋, I'm Isaac Jimenez</h1>
 
 <h3 align="center">
   💻 Software Developer | Backend Developer | API & Web Applications
 </h3>
 
 <p align="center">
-  <img src="https://readme-typing-svg.herokuapp.com?font=Poppins&size=28&pause=1000&color=38BDF8&center=true&vCenter=true&width=700&lines=Backend+Developer;Python+%7C+PHP+%7C+JavaScript;React+%7C+PostgreSQL+%7C+REST+APIs;Building+Scalable+Web+Applications;Always+Learning+New+Technologies" />
+  <img src="https://readme-typing-svg.herokuapp.com?font=Poppins&size=24&pause=1000&color=38BDF8&center=true&vCenter=true&width=650&lines=Backend+Developer;Python+%7C+PHP+%7C+JavaScript;REST+APIs+%7C+Databases;Building+Real+World+Solutions" />
 </p>
 
 ---
 
-<img align="right" alt="Coding" width="350" src="https://media.giphy.com/media/qgQUggAC3Pfv687qPC/giphy.gif">
+<img align="right" alt="Coding" width="320" src="https://media.giphy.com/media/qgQUggAC3Pfv687qPC/giphy.gif">
 
 ## 🚀 About Me
 
-- 💻 Junior Software Developer focused on **Backend Development**
-- 🔐 Experience with **Authentication, APIs, Databases & Payment Gateways**
-- ⚡ Building **REST APIs and scalable web applications**
-- 🌱 Currently learning **React, Python & PostgreSQL**
-- 🎯 Passionate about solving real-world problems with software
+💻 Junior Software Developer passionate about backend systems, APIs and scalable applications.
+
+- 🔹 Backend Development with **Python, PHP & JavaScript**
+- 🔹 REST APIs & Authentication
+- 🔹 Databases: **PostgreSQL, MySQL, MongoDB**
+- 🔹 Payment Gateways & Integrations
+- 🔹 Building real-world software solutions
+- 🌱 Currently improving my skills in **React & scalable architectures**
 
 ---
 
 ## 🛠 Tech Stack
 
 <p align="center">
-  <img src="https://skillicons.dev/icons?i=python,php,cplusplus,javascript,react,flutter,java,mongodb,postgres,mysql,git,github,laravel,dart,html,css,bootstrap" />
+  <img src="https://skillicons.dev/icons?i=python,php,javascript,react,nodejs,postgres,mongodb,mysql,git,github,html,css,bootstrap,laravel" />
 </p>
 
 ---
 
-## 📊 GitHub Stats
+## 📌 Featured Projects
 
-<p align="center">
-  <img src="https://github-readme-stats.vercel.app/api?username=Isaac384&show_icons=true&theme=tokyonight&hide_border=true" />
-</p>
+### 🔹 Project Name
+Short description of what the project solves.
 
-<p align="center">
-  <img src="https://github-readme-streak-stats.herokuapp.com/?user=Isaac384&theme=tokyonight&hide_border=true" />
-</p>
+### 🔹 API Project
+REST API with authentication and database integration.
 
-<p align="center">
-  <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=Isaac384&layout=compact&theme=tokyonight&hide_border=true" />
-</p>
+### 🔹 Web Application
+Full-stack application with backend logic and database.
+
 
 ---
 
-## 🏆 GitHub Achievements
-
-<p align="center">
-  <img src="https://github-profile-trophy.vercel.app/?username=Isaac384&theme=tokyonight&row=1&column=6&margin-w=15&margin-h=15" />
-</p>
-
----
-
-## 📈 Contribution Graph
+## 📈 GitHub Activity
 
 <p align="center">
   <img src="https://github-readme-activity-graph.vercel.app/graph?username=Isaac384&theme=tokyo-night&hide_border=true" />
@@ -64,28 +55,30 @@
 
 ---
 
-## 🌐 Connect With Me
+## 🐍 Contribution Snake
 
 <p align="center">
-  <a href="TU-LINKEDIN">
-    <img src="https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white"/>
-  </a>
-  
-  <a href="TU-PORTAFOLIO">
-    <img src="https://img.shields.io/badge/Portfolio-111827?style=for-the-badge&logo=firefox&logoColor=white"/>
-  </a>
-
-  <a href="isaac.ismael43@outlook.com">
-    <img src="https://img.shields.io/badge/Email-EA4335?style=for-the-badge&logo=gmail&logoColor=white"/>
-  </a>
+  <img src="https://raw.githubusercontent.com/Isaac384/Isaac384/output/github-contribution-grid-snake-dark.svg" alt="Snake animation"/>
 </p>
 
 ---
 
-## 🐍 Contribution Snake
+## 🌐 Connect With Me
 
 <p align="center">
-  <img src="https://raw.githubusercontent.com/Isaac384/Isaac384/output/snake.svg" alt="Snake animation" />
+
+<a href="https://linkedin.com/in/isaac-ismael-perez-jimenez">
+  <img src="https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white"/>
+</a>
+
+<a href="mailto:isaac.ismael43@outlook.com">
+  <img src="https://img.shields.io/badge/Email-EA4335?style=for-the-badge&logo=gmail&logoColor=white"/>
+</a>
+
+<a href="TU-PORTAFOLIO">
+  <img src="https://img.shields.io/badge/Portfolio-111827?style=for-the-badge&logo=firefox&logoColor=white"/>
+</a>
+
 </p>
 
 ---
